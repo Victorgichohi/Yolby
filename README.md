@@ -4,6 +4,6 @@
 
  Yolby aims to act as a solid starting point for both professionals and newcomers to the industry.
 
- #### Yolby Project Contents:
+ Yolby Project Contents:
 
 
